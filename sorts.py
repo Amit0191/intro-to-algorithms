@@ -29,6 +29,3 @@ def merge_sort(arr):
             k += 1
 
 
-arr = [4, 3, 8, 1, 7, 0, 5, 6]
-merge_sort(arr)
-print(arr)
